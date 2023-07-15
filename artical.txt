@@ -1,0 +1,180 @@
+<div class="row">
+        <div class="col-md-12">
+          <div class="section-title text-center wow zoomIn">
+            <h3> <strong class="clrchg">Tally Service Provider (Partner)</strong></h3>
+            
+            <div class="underline"></div>
+            <p>Tally Prime Silver (Single User) Work On Only One System.</p>
+            
+        </div>
+      </div>
+
+
+  <div class="container">
+  
+  <div class="layout">
+    <p class="col col-main">
+ <img src="images/Tally_Prime_Silver.png" class="img-fluid">
+    </p>
+    <ul>
+    <p class="col col-complementary" role="complementary">
+    <strong>
+    <li>Tally Prime single user work on only one machine at same time.
+<li>Tally Prime Support Multitasking features at same time.</li>
+<li>Tally Prime Support Goto ,Switch to option Printing optimization and many more.</li>
+<li>Tally Prime Support Order Management Inventory Management TCS,GST,TDS etc.</li>
+<li>Tally Prime Support E-invoicing & E-way bill & GST Report export in JSON format.</li>
+<li><a href="https://help.tallysolutions.com/tally-prime/edit-log/get-started-with-edit-log/?_gl=1*191y5qp*_ga*MTg3NjkxODIwMS4xNjg0NTgwNDkw*_ga_70J40R47GH*MTY4ODU0Njk3Mi4zNi4xLjE2ODg1NDcwMDcuMjUuMC4w&amp;_ga=2.191125290.1012224959.1688136330-1876918201.1684580490" class="refclr">Click here for more details contact us.</li></a>
+    </strong>
+    </p>  
+    </ul>
+  </div>
+</div>
+</div><br>
+<!--start 2-->
+<div class="row">
+        <div class="col-md-12">
+          <div class="section-title text-center wow zoomIn">
+            <h3 > <strong class="clrchg">Tally Prime Gold</strong></h3>
+            
+            <div class="underline"></div>
+            <p>Tally Prime Gold (Multi User) Work On Many System via LAN & WAN.</p>
+            
+        </div>
+      </div>
+
+
+  <div class="container">
+  
+  <div class="layout">
+    <p class="col col-main">
+ <img src="images/tpgold.png" class="img-fluid">
+    </p>
+    <ul>
+    <p class="col col-complementary" role="complementary">
+    <strong>
+    <li>Tally Prime Server offers powerful data server capabilities over the Gold license.
+<li>This server-based Data Architecture unleashes greater concurrency, secured data access, and advanced monitoring capabilities</li>
+<li>Tally Prime Server Support UDP,High concurrency,Secure Layer,High Reliability,Business Process Optimization etc.</li>
+<li>Tally Prime Server user work on server client policy via LAN ,WAN.</li>
+<li>Tally Prime Server Support Goto ,Switch to option Printing optimization and many more.</li>
+<li><a href="https://help.tallysolutions.com/tally-prime/edit-log/edit-log-in-tallyprime-faq/?_gl=1*1sx294o*_ga*MTg3NjkxODIwMS4xNjg0NTgwNDkw*_ga_70J40R47GH*MTY4ODU0Njk3Mi4zNi4xLjE2ODg1NDcwMDcuMjUuMC4w&amp;_ga=2.31446079.1012224959.1688136330-1876918201.1684580490" class="refclr">Click here for more details contact us.</li></a>
+    </strong>
+    </p>  
+    </ul>
+  </div>
+</div>
+</div><br>
+
+
+<!--End 2-->
+
+<!--start3-->
+<div class="row">
+        <div class="col-md-12">
+          <div class="section-title text-center wow zoomIn">
+            <h3 > <strong class="clrchg">Tally Prime Auditor</strong></h3>
+            
+            <div class="underline"></div>
+            <p>Tally Prime Auditor (Multi User) Work On Many System via LAN & WAN.</p>
+            
+        </div>
+      </div>
+
+
+  <div class="container">
+  
+  <div class="layout">
+    <p class="col col-main">
+ <img src="images/pmauditor.png" class="img-fluid">
+    </p>
+    <ul>
+    <p class="col col-complementary" role="complementary">
+    <strong>
+    <li>Tally Prime Auditor user work on Many machine at same time Based on server client policy via LAN ,WAN. </li>
+<li>Tally Prime Support Multitasking features at same time.</li>
+<li>Tally Prime Support Goto ,Switch to option Printing optimization and many more.</li>
+<li>Tally Prime Support Order Management Inventory Management TCS,GST,TDS etc.</li>
+<li>Tally Prime Support E-invoicing & E-way bill & GST Report export in JSON format.</li>
+<li>Tally Prime Auditor is only for practice purpose for professional tally also provide some special discount.</li>
+
+<li><a href="https://help.tallysolutions.com/tally-prime/welcome-to-tally-prime/digital-signature-tallyprime/" class="refclr">Click here for more details contact us.</li></a>
+    </strong>
+    </p>  
+    </ul>
+  </div>
+</div>
+</div><br>
+<!--End 3-->
+<!--4 start-->
+<div class="row">
+        <div class="col-md-12">
+          <div class="section-title text-center wow zoomIn">
+            <h3 > <strong class="clrchg">Tally Prime Server</strong></h3>
+            
+            <div class="underline"></div>
+            <p>Tally Prime Server Work with multi user.</p>
+            
+        </div>
+      </div>
+
+
+  <div class="container">
+  
+  <div class="layout">
+    <p class="col col-main">
+ <img src="images/tps.png" class="img-fluid">
+    </p>
+    <ul>
+    <p class="col col-complementary" role="complementary">
+    <strong>
+    <li>Tally Prime Server offers powerful data server capabilities over the Gold license. </li>
+<li>This server-based Data Architecture unleashes greater concurrency, secured data access, and advanced monitoring capabilities</li>
+<li>Tally Prime Server Support UDP,High concurrency,Secure Layer,High Reliability,Business Process Optimization etc.</li>
+<li>Tally Prime Server user work on server client policy via LAN ,WAN.</li>
+<li>Tally Prime Server Support Multitasking features at same time.</li>
+<li>Tally Prime Server Support Goto ,Switch to option Printing optimization and many more.</li>
+
+<li><a href="https://help.tallysolutions.com/tally-prime/welcome-to-tally-prime/digital-signature-faq/" class="refclr">Click here for more details contact us.</li></a>
+    </strong>
+    </p>  
+    </ul>
+  </div>
+</div>
+</div><br>
+<!--4 end-->
+<!--5start-->
+<div class="row">
+        <div class="col-md-12">
+          <div class="section-title text-center wow zoomIn">
+            <h3 > <strong class="clrchg">All Tally ERP9</strong></h3>
+            
+            <div class="underline"></div>
+            <p>All Tally erp 9 Silver,Gold</p>
+            
+        </div>
+      </div>
+
+
+  <div class="container">
+  
+  <div class="layout">
+    <p class="col col-main">
+ <img src="images/tps.png" class="img-fluid">
+    </p>
+    <ul>
+    <p class="col col-complementary" role="complementary">
+    <strong>
+    <li>Tally erp 9 Support Many features Like Inventory Management,Order Management,GST Filling,TDS TCS,Payroll Outstanding Management etc.</li>
+<li>TView your important business reports anywhere on a web browser.</li>
+<li>Convenience of accessing your data anywhere while your data stays only with you.</li>
+<li>Access important business reports such as Bills Receivable & Payable, Stock Summary etc.</li>
+<li>Helping you make the business decisions faster than before.</li>
+
+<li><a href="https://help.tallysolutions.com/tally-prime/gst-regular-sales/reasons-for-rejection-of-e-invoice-and-resolutions/" class="refclr">Click here for more details contact us.</li></a>
+    </strong>
+    </p>  
+    </ul>
+  </div>
+</div>
+</div><br>

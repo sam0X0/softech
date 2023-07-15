@@ -1,0 +1,43 @@
+span.fa.fa-bars {
+    color: #007bff;
+}
+/*start product*/
+.col-main {
+  
+    /* flex: auto; */
+    display: contents;
+
+}  
+
+.col-complementary {
+  flex: 1;  
+}
+
+/* Responsive: */
+
+@media only screen and (min-width: 640px) {
+  .layout {
+    display: flex;
+  }
+}
+
+/* etc */
+
+
+
+
+.col {
+  padding: 1em;
+  margin: 0 2px 2px 0;
+  background: transparent;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    height: 350px;
+    width: 292px;
+}
+a.refclr {
+    color: #3498db;
+}
+/*end Product*/

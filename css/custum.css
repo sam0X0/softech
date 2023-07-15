@@ -1,0 +1,482 @@
+.owl-carousel.home-slider .slider-item .slider-text h2 {
+    color:yellow;
+}
+/*start Card*/
+.section-heading h2 {
+    text-align: center;
+    margin-top: revert;
+}
+.section-heading em {
+    font-style: normal;
+    color: #a4c639;
+}
+.underline {
+    border-top: 1px solid #FFC107;
+    height: 1px;
+    margin: auto;
+    position: relative;
+    width: 25%;
+}
+.underline:before {
+    background-color: #FFC107;
+    border: 1px ridge #FFC107;
+    border-radius: 2px;
+    content: "";
+    height: 10px;
+    left: 50%;
+    margin-left: -35px;
+    position: absolute;
+    top: -6px;
+    width: 60px;
+}
+a.colorchange {
+    color: #0274be;
+}
+/*end card*/
+/*start benifits*/
+
+.waviy {
+  position: relative;
+  -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0,0,0,.2));
+}
+.waviy span {
+  position: relative;
+  display: inline-block;
+  font-size: 20px;
+  color: #fff;
+  text-transform: uppercase;
+  animation: waviy 1s infinite;
+  animation-delay: calc(.1s * var(--i))
+}
+@keyframes waviy {
+  0%,40%,100% {
+    transform: translateY(0)
+  }
+  20% {
+    transform: translateY(-20px)
+  }
+}
+
+
+/*home services*/
+.service-block-container {
+   display: flex;
+   justify-content: center;
+}
+
+.service-block {
+   min-width: 180px;
+   width: 180px;
+   height: 200px;
+   position: relative;
+   transition: all 0.3s ease-in-out;
+   overflow: hidden;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   background-color: #fff;
+   color: #666;
+   border: 1px solid #ccc;
+   margin-bottom: 30px;
+   padding: 0 10px;
+}
+
+.service-underlay {
+   position: absolute;
+   height: 60px;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   background-color: rgb(226, 226, 226);
+   padding-top: 18px;
+   transition: all 0.3s ease-in-out;
+}
+
+.service-icon {
+   position: absolute;
+   top: 30px;
+   left:0; 
+   right: 0;
+   font-size: 30px;
+   transition: all 0.3s ease-in-out;
+   color: #737373;
+}
+
+.service-name {
+   margin: 0 auto;
+   display: block;
+   text-transform: Capitalize;
+}
+
+.service-desc {
+   display: block;
+   font-size: 12px;
+   margin-top: 75px;
+}
+
+.service-underlay .cta {
+   margin-top: 115px;
+   display: inline-block;
+   color: #fff;
+   font-size: 14px;
+}
+
+.service-block:hover {
+   transform: scale(1.1);
+   cursor: pointer;
+   border: 1px solid #141b41;
+}
+
+.service-block:hover .service-underlay {
+   height: 200px;
+   background-color: #141b41;
+}
+
+.service-block:hover .service-icon {
+   color: #fff;
+   transform: scale(1.5);
+   top: 80px;
+}
+
+.service-block:hover .service-name {
+   color: #fff;
+   font-weight: bold;
+}
+
+.service-block:hover .service-desc {
+   display: none;
+}
+
+.service-block .service-underlay .cta:hover {
+   text-decoration: none;
+}
+.fa, .fas {
+    font-weight: 900;
+    color: gold;
+}
+
+.fa .fa-clock-o{
+  color: white;
+}
+.fa,.fa-phone{
+  color: #007bff;
+}
+span.fa.fa-bars {
+  color: #007bff;
+}
+h2.mb-sm.deco{
+
+  text-align: center;
+  color: #FFC107;
+}
+.underline {
+    border-top: 1px solid black;
+    height: 1px;
+    margin: auto;
+    position: relative;
+    width: 25%;
+}
+    .underline:before {
+    background-color: #007bff;
+    border: 1px ridge black;
+    border-radius: 2px;
+    content: "";
+    height: 10px;
+    left: 50%;
+    margin-left: -35px;
+    position: absolute;
+    top: -6px;
+    width: 60px;
+}
+
+
+
+/*social media symbol*/
+.cardBox {
+    perspective: 500px;
+    margin: 15px;
+    display: inline-flex;
+}
+
+.card {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    background: #FFF;
+    transform-style: preserve-3d;
+    transition: 1s;
+    box-shadow: 0px 30px 30px rgb(0, 0, 0, 0.5);
+    border-top-left-radius: 20%;
+    border-top-right-radius: none;
+    border-bottom-left-radius: none;
+    border-bottom-right-radius: 20%;
+}
+
+.facebook {
+    background: #3b5998;
+}
+
+.twitter {
+    background: #1da1f2;
+}
+
+.googleplus {
+    background: #3e7f04;
+}
+
+.card-front,
+.card-back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    color: #FFF;
+    backface-visibility: hidden;
+
+}
+
+.card-front {
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
+    align-items: center
+}
+
+.card-back {
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center
+}
+
+.cardBox:hover .card {
+    transform: rotateY(180deg);
+}
+
+.card-back {
+    transform: rotateY(180deg);
+}
+.social{
+margin-left: 25%;
+    margin-right: 20%;
+
+}
+a {
+    color: #f0f2f5;
+  }
+
+/*end benifits*/
+
+/* startdetail */
+.template_faq {
+    background: #edf3fe none repeat scroll 0 0;
+}
+.panel-group {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 3px;
+    box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.04);
+    margin-bottom: 0;
+    padding: 50px;
+}
+#accordion .panel {
+    border: medium none;
+    border-radius: 0;
+    box-shadow: none;
+    margin: 0 0 15px 10px;
+}
+#accordion .panel-heading {
+    border-radius: 30px;
+    padding: 0;
+}
+#accordion .panel-title a {
+    background: #007bff none repeat scroll 0 0;
+    border: 1px solid transparent;
+    border-radius: 30px;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 12px 20px 12px 50px;
+    position: relative;
+    transition: all 0.3s ease 0s;
+}
+#accordion .panel-title a.collapsed {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ddd;
+    color: #333;
+}
+#accordion .panel-title a::after, #accordion .panel-title a.collapsed::after {
+    background: #ffb900 none repeat scroll 0 0;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.58);
+    color: #fff;
+    content: "";
+    font-family: fontawesome;
+    font-size: 25px;
+    height: 55px;
+    left: -20px;
+    line-height: 55px;
+    position: absolute;
+    text-align: center;
+    top: -5px;
+    transition: all 0.3s ease 0s;
+    width: 55px;
+}
+#accordion .panel-title a.collapsed::after {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ddd;
+    box-shadow: none;
+    color: #333;
+    content: "";
+}
+#accordion .panel-body {
+    background: transparent none repeat scroll 0 0;
+    border-top: medium none;
+    padding: 20px 25px 10px 9px;
+    position: relative;
+}
+#accordion .panel-body p {
+    border-left: 1px dashed #8c8c8c;
+    padding-left: 25px;
+}
+/* enddetail */
+
+/*paragraph*/
+* {
+    box-sizing: border-box;
+    background-color: smokewhite
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+/*End paragraph*/
+/*start course detail*/
+li.two:before {
+   content:"\f00c";
+   }
+/*End course detail*/
+/* sart paragraph*/
+p.textalign {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+/*end Paragramph*/
+/*start why choose us*/
+
+.services-block-three{
+  margin-bottom" 30px;
+}
+.services-block-three i {
+    font-size: 32px;
+}
+.services-block-three>a {
+    display: block;
+    border: 2px solid #d5d5d5;
+    border-radius: 4px;
+    text-align: center;
+    background: #fff;
+    padding: 20px;
+    position: relative;
+  margin-bottom:30px;
+
+}
+.services-block-three>a:before {
+    display: block;
+    content: "";
+    width: 9%;
+    height: 17%;
+    position: absolute;
+    bottom: -2px;
+    right: -2px;
+    border-bottom: 2px solid #03a9f5;
+    border-right: 2px solid #03a9f5;
+    transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+}
+.services-block-three>a:after {
+    display: block;
+    content: "";
+    width: 9%;
+    height: 17%;
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    border-top: 2px solid #03a9f5;
+    border-left: 2px solid #03a9f5;
+    transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+}
+.padding-15px-bottom {
+    padding-bottom: 15px;
+}
+.services-block-three h4 {
+    color: #6f6f6f;
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.services-block-three p {
+    margin-bottom: 0;
+  color: #757575;
+}
+.services-block-three>a:hover {
+    opacity: 1;
+    border-color: #d5d5d5;
+}
+a:hover, a:active {
+    color: #03a9f5;
+    text-decoration: none;
+}
+
+.services-block-three>a:hover:before, .services-block-three>a:hover:after {
+    width: 95%;
+    height: 90%;
+}
+i.fa.fa-user {
+    color: cornflowerblue;
+}
+
+i.fa.fa-laptop {
+    color: cornflowerblue;
+}
+i.fa.fa-clock-o{
+	color: cornflowerblue;
+
+}
+i.fa.fa-money
+{
+	color: cornflowerblue;
+}
+i.fa.fa-desktop{
+	color: cornflowerblue;
+}
+i.fa.fa-book{
+	color: cornflowerblue;
+}
+strong.clrchg {
+    color: black;
+}
+/*End why choose us*/
+
+
