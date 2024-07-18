@@ -1,0 +1,22 @@
+
+
+/* change the URL to a picture of your choice - the higher quality the better! */
+.business-header {
+	height: 400px;
+	background: url("../images/assets/tallyprime_bg.jpg") center center no-repeat;
+	background-size: cover;
+}
+.tagline {
+	color: #fff;
+	text-shadow: 0 0 10px #000;
+	margin-top: 25%;
+    text-align: center;
+}
+
+.container.my-5 {
+    margin-left: initial;
+}
+h4.display-5 {
+    color: black;
+	text-align: center;
+}
